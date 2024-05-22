@@ -1,0 +1,30 @@
+.box{
+    border: 5px ridge green;
+    width: 80px;
+    height: 50px;
+}
+.box1{
+    border: 5px dashed green;
+    width: 80px;
+    height: 50px;
+}
+.box2{
+    border: 5px dotted green;
+    width: 80px;
+    height: 50px;
+}
+.box4{
+    border: 5px double green;
+    width: 80px;
+    height: 50px;
+}
+.box5{
+    border: 5px outset green;
+    width: 80px;
+    height: 50px;
+}
+.box6{
+    border: 7px inset green;
+    width: 80px;
+    height: 50px;
+}
